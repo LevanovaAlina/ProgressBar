@@ -1,0 +1,12 @@
+C:\Users\alina\OneDrive\Рабочий стол\program\ConsoleApp4\MyLib\bin\Debug\net6.0\MyLib.deps.json
+C:\Users\alina\OneDrive\Рабочий стол\program\ConsoleApp4\MyLib\bin\Debug\net6.0\MyLib.dll
+C:\Users\alina\OneDrive\Рабочий стол\program\ConsoleApp4\MyLib\bin\Debug\net6.0\MyLib.pdb
+C:\Users\alina\OneDrive\Рабочий стол\program\ConsoleApp4\MyLib\obj\Debug\net6.0\MyLib.csproj.AssemblyReference.cache
+C:\Users\alina\OneDrive\Рабочий стол\program\ConsoleApp4\MyLib\obj\Debug\net6.0\MyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alina\OneDrive\Рабочий стол\program\ConsoleApp4\MyLib\obj\Debug\net6.0\MyLib.AssemblyInfoInputs.cache
+C:\Users\alina\OneDrive\Рабочий стол\program\ConsoleApp4\MyLib\obj\Debug\net6.0\MyLib.AssemblyInfo.cs
+C:\Users\alina\OneDrive\Рабочий стол\program\ConsoleApp4\MyLib\obj\Debug\net6.0\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\alina\OneDrive\Рабочий стол\program\ConsoleApp4\MyLib\obj\Debug\net6.0\MyLib.dll
+C:\Users\alina\OneDrive\Рабочий стол\program\ConsoleApp4\MyLib\obj\Debug\net6.0\refint\MyLib.dll
+C:\Users\alina\OneDrive\Рабочий стол\program\ConsoleApp4\MyLib\obj\Debug\net6.0\MyLib.pdb
+C:\Users\alina\OneDrive\Рабочий стол\program\ConsoleApp4\MyLib\obj\Debug\net6.0\ref\MyLib.dll
